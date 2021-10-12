@@ -9,14 +9,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": ""
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
+            "button_label_1": "",
+            "button_link_1": "",
             "button_label_2": ""
           }
         }
@@ -24,7 +24,17 @@
       "block_order": [
         "heading",
         "button"
-      ]
+      ],
+	  "settings": {
+        "image": "shopify:\/\/shop_images\/linen-fabric-stack.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     },
     "rich_text": {
       "type": "rich-text",
@@ -73,7 +83,14 @@
       ]
     },
     "video": {
-      "type": "video"
+      "type": "video",
+	  "settings": {
+        "heading": "Video",
+        "cover_image": "shopify:\/\/shop_images\/Rope-sisal.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false
+      }
     },
     "multi_column": {
       "type": "multicolumn",

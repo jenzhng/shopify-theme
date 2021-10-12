@@ -1751,6 +1751,7 @@ input[type='checkbox'] {
 .announcement-bar {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
   color: rgb(var(--color-foreground));
+
 }
 
 .announcement-bar__link {
@@ -1758,11 +1759,14 @@ input[type='checkbox'] {
   width: 100%;
   padding: 1rem 2rem;
   text-decoration: none;
+    font-family: Arial, sans-serif;
+
 }
 
 .announcement-bar__link:hover {
   color: rgb(var(--color-foreground));
   background-color: rgba(var(--color-card-hover), 0.06);
+
 }
 
 .announcement-bar__link .icon-arrow {
@@ -1771,13 +1775,16 @@ input[type='checkbox'] {
   margin-left: 0.8rem;
   vertical-align: middle;
   margin-bottom: 0.2rem;
+
 }
 
 .announcement-bar__link .announcement-bar__message {
   padding: 0;
+
 }
 
 .announcement-bar__message {
+  font-family: Arial, sans-serif;
   text-align: center;
   padding: 1rem 2rem;
   margin: 0;

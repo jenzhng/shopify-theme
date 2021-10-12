@@ -1,11 +1,14 @@
 .rich-text {
-  margin: auto;
-  text-align: center;
+  display: flex;
+  margin: 0;
+  text-align: left;
+  flex-direction: row-reverse;
+  
 }
 
 .rich-text.rich-text--full-width {
-  max-width: initial;
-  width: 100%;
+  max-width: relative;
+  width: 50%;
 }
 
 .rich-text__blocks {
@@ -59,9 +62,9 @@
 }
 
 .rich-text__blocks > * + * {
-  margin-top: 2rem;
+  margin-top: 6rem;
 }
 
 .rich-text__blocks > * + a {
-  margin-top: 3rem;
+  margin-top: 7rem;
 }
