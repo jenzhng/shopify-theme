@@ -163,7 +163,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/reduce-water-consumption.jpg",
             "title": "How to Reduce Household Water Use",
-            "text": "<p>Learn how to reduce water consumption in your home. <\/p>"
+            "text": "<p><a href=\"\/blogs\/news\/ways-to-reduce-household-water-consumption\" title=\"Ways to Reduce Household Water Consumption\">Learn how to reduce water consumption in your home. <\/a><\/p>"
           }
         }
       },
