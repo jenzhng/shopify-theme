@@ -62,9 +62,9 @@
 }
 
 .rich-text__blocks > * + * {
-  margin-top: 6rem;
+  margin-top: 2rem;
 }
 
 .rich-text__blocks > * + a {
-  margin-top: 7rem;
+  margin-top: 3rem;
 }

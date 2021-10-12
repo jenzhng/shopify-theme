@@ -9,7 +9,7 @@
 @media screen and (max-width: 749px) {
   .banner--mobile-bottom:not(.banner--stacked):not(.banner--adapt) > .banner__media {
 	right:0px;
-	width: 29rem;
+	width: 19rem;
     height: 39rem;
   }
 
