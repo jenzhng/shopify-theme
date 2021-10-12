@@ -178,7 +178,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "See all blog post",
+        "button_label": "See all blog posts",
         "button_link": "shopify:\/\/blogs\/news",
         "swipe_on_mobile": false
       }
